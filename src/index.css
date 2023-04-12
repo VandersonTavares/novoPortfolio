@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base{
+    h3, p {
+        font-family: 'Inter', sans-serif;
+    }
+
+}

@@ -1,0 +1,15 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html{
+    background-color: #141225;
+    scroll-behavior: smooth;
+    overflow-x: hidden;
+}
+
+a{
+	text-decoration: none;
+}
