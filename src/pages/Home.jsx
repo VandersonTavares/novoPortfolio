@@ -40,8 +40,8 @@ const Home = () => {
               {/* <div className="sm:block sm:w-1/3 lg:w-3/5">
                 <img src={myImage} className="max-w-xs m-auto md:max-w-sm" />
               </div> */}
-              <div className="w-[600px] h-[600px]">
-                
+              <div className="w-[600px] h-[600px] ml-[200px]">
+                <Spline scene="https://prod.spline.design/GLmXJ2pEkMKSGoCy/scene.splinecode" />
               </div>
             </div>
           </div>
